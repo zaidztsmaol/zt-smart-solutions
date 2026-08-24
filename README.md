@@ -5,30 +5,30 @@
     <title>ZT Smart Solutions</title>
     <style>
         body { 
-            font-family: 'Arial', sans-serif; 
+            font-family: Arial, sans-serif; 
             text-align: center; 
             padding: 40px 20px; 
-            background: #0b1329; /* كحلي غامق فخم جداً زي لون المحيط */
-            color: #d4af37; /* ذهبي برونزي راقي */
+            background: #0b1329; 
+            color: #d4af37; 
             margin: 0;
         }
         .container { 
             max-width: 650px; 
             margin: 0 auto; 
-            background: #0f1a36; /* درجة كحلي متناسقة للبطاقة الداخلية */
+            background: #0f1a36; 
             padding: 40px; 
             border-radius: 12px; 
             box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5); 
             border: 1px solid #d4af3755;
         }
         h1 { 
-            color: #f3e5ab; /* ذهبي فاتح فخم */
+            color: #f3e5ab; 
             font-size: 34px; 
             margin-bottom: 8px; 
             letter-spacing: 1px;
         }
         h3 { 
-            color: #c5a059; /* ذهبي برونزي دافئ */
+            color: #c5a059; 
             font-size: 19px; 
             margin-bottom: 25px; 
             font-weight: normal;
@@ -56,7 +56,7 @@
         }
         .whatsapp-btn { 
             display: inline-block; 
-            background-color: #d4af37; /* زر باللون الذهبي البرونزي المتناسق مع الهوية */
+            background-color: #d4af37; 
             color: #0b1329; 
             padding: 12px 30px; 
             font-size: 18px; 
